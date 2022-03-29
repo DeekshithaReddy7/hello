@@ -1,0 +1,124 @@
+body  {
+	
+	 
+ background-image: url("gradient.jpg") ;
+ background-size:cover ;
+ background-repeat: no-repeat;
+ 
+
+
+}
+.btn-dark:hover, .btn-dark:focus, .btn-dark:active, .btn-dark.active, .open>.dropdown-toggle.btn-dark {
+    
+    background-color: #ffffff;
+    /set the color you want here/
+}
+.img{
+    border-style: solid;
+    border-color: black;
+}
+
+
+.1{
+    margin-top: 10px;
+}
+
+
+
+
+.img-container {
+        text-align: center;
+        margin-top: 50px;
+        
+           
+   
+    
+      }
+
+
+
+  
+
+
+
+
+ .h{
+ 	font-weight: 900;
+ 	font-family: algerian;
+ 	font-size: 50px;
+ 	color:black;
+ }
+h2{font-family: algerian;
+	font-size: 70px;
+	
+    text-shadow: 0 0 3px #32CD32, 0 0 5px #32CD32;
+    color: black;
+  
+    
+}
+  hr.class-2 {
+            border-top: 10px double #000000;
+            color: black;
+            
+        }
+        .z{
+            text-decoration: underline;
+             font-family: algerian;
+    
+    text-shadow: 0 0 3px #32CD32, 0 0 5px #32CD32;
+    color: black;
+    font-size: 100px;
+}
+.u{
+    font-family: algerian;
+    font-size: 30px;
+    color: limegreen;
+    text-shadow: 0 0 3px #ffffff, 0 0 5px #ffffff;
+    
+    
+
+}
+p{font-family:Copperplate Gothic Light;
+font-size: 15px;
+font-weight: 900px;}
+
+p.thicker {
+  font-weight: 900;
+}
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: orange;
+  
+}
+.btn-warning:hover,
+.btn-warning:focus {
+  color: black;
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.d1{color: white;
+border-bottom: 5px solid #32CD32;
+font-family: algerian;
+margin-top: 20px;
+font-size: 20px;
+
+}
+.d2{font-family:Copperplate Gothic Light;
+    color: limegreen;
+font-size: 15px;
+font-weight: 900px;
+margin-top: 10px;
+}
+
+<html>
+<body>
+<p>The goals of software engineering are straightforward and easy to understand – but they aren’t always easy to meet.
+This is because there are so many different ways to approach software engineering and so many outcomes that are possible.
+While we do have best practices and there are standards in place, every software engineer has a different approach 
+and sometimes they don’t always mesh well with other members of an IT team.</p>
+</body>
